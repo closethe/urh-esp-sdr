@@ -1,0 +1,5 @@
+numpy<3.0
+PyQt6
+psutil
+cython
+setuptools
